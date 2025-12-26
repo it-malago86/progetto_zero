@@ -1,0 +1,3 @@
+# Dipendenze opzionali. Lascia vuoto se non usi librerie esterne.
+# tkinterdnd2==0.0.1   # opzionale per drag&drop nella GUI
+# pytest==7.4.0        # opzionale per test
